@@ -1,0 +1,1 @@
+Javascript animation using a sprite sheet

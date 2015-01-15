@@ -1,0 +1,20 @@
+.character {
+	/*
+	Very important that the height and width of the characters are the same width and height of the 
+	sprites.
+	*/
+	height:50px;
+	width:40px;
+	position: absolute;
+	left:100px;
+	top:120px;
+}
+
+#j {
+	/*
+	 Set the background image for the character div to the first sprite in the upper left corner
+	*/
+	background-image: url('j.png');
+	background-repeat: no-repeat;
+	background-position: 0 0;
+}
